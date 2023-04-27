@@ -1,1 +1,2 @@
 # spc-solar
+spcsolar.in
